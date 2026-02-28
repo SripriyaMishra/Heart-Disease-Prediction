@@ -1,6 +1,0 @@
-Python Libraries used:
-pandas
-numpy
-scikit-learn
-matplotlib
-gradio
